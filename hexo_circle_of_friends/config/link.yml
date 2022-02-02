@@ -1,3 +1,339 @@
+- name: 小蝴蝶
+  link: http://xiaohudie.net/
+  feed: http://xiaohudie.net/feed
+  avatar: https://gravatar.loli.net/avatar/62321464730fea19c80f2026aef08a53
+  descr: 又一个博客
+
+- name: Elizen
+  link: https://elizen.me/
+  feed: https://elizen.me/index.xml
+  avatar: https://gravatar.loli.net/avatar/f65df4d87240feb1cb247857a621a48f
+  descr: 又一个博客
+
+- name: 大发贱志
+  link: https://fatesinger.com/
+  feed: https://fatesinger.com/feed
+  avatar: https://gravatar.loli.net/avatar/388b0c85beede5d94b978833e2a51965
+  descr: 又一个博客
+
+- name: 黑石博客
+  link: https://www.heson10.com/
+  feed: https://www.heson10.com/atom.xml
+  avatar: https://gravatar.loli.net/avatar/fc2c9b067f65c9e2d7057ba797f7cfca
+  descr: 又一个博客
+
+- name: 荒野無燈
+  link: https://ttys3.net/
+  feed: https://ttys3.net/atom.xml
+  avatar: https://gravatar.loli.net/avatar/a8907e723e36cf8f37cd45636b1f0af4
+  descr: 又一个博客
+
+- name: ZWWoOoOo
+  link: https://zww.me/
+  feed: https://zww.me/feed
+  avatar: https://gravatar.loli.net/avatar/9d7a1fd054cb532d3daac3b19aa70ed3
+  descr: 又一个博客
+
+- name: A哥
+  link: https://sunbox.cc/
+  feed: https://sunbox.cc/feed
+  avatar: https://gravatar.loli.net/avatar/185fee0851b940ea7fc29006d3b76aa4
+  descr: 又一个博客
+
+- name: 亲爱的罗伊
+  link: https://dearroy.com/
+  feed: https://dearroy.com/atom.xml
+  avatar: https://gravatar.loli.net/avatar/7f0462ffcbb90ae9942bc86157dead61
+  descr: 又一个博客
+
+- name: 周良粥凉
+  link: https://imzl.com/
+  feed: https://imzl.com/feed
+  avatar: https://gravatar.loli.net/avatar/7a3666b87e0dfb5d76fd1a0ea7779d9b
+  descr: 又一个博客
+
+- name: Axiu
+  link: https://axiu.me/
+  feed: https://axiu.me/feed
+  avatar: https://gravatar.loli.net/avatar/c1c19d714393cd9b8ea3a1e955db8521
+  descr: 又一个博客
+
+- name: 不亦乐乎
+  link: https://lms.im/
+  feed: https://lms.im/feed
+  avatar: https://gravatar.loli.net/avatar/d9cc49ea0301640d7a19b6a1e77012dd
+  descr: 又一个博客
+
+- name: 从良未遂
+  link: https://www.ithmz.com/
+  feed: https://www.ithmz.com/feed
+  avatar: https://gravatar.loli.net/avatar/2672e294218856ef973af5821565a158
+  descr: 又一个博客
+
+- name: 秦大叔
+  link: https://qfsyj.com/
+  feed: https://qfsyj.com/feed
+  avatar: https://gravatar.loli.net/avatar/4ba509f9ec541ab4d316299727b3e3ab
+  descr: 又一个博客
+
+- name: 灰常记忆
+  link: http://bestcherish.com/
+  feed: http://bestcherish.com/feed
+  avatar: https://gravatar.loli.net/avatar/338aab9b039236de24c1d8a5def2dc77
+  descr: 又一个博客
+
+- name: AoTxLand
+  link: https://aotxland.com/
+  feed: https://aotxland.com/feed
+  avatar: https://gravatar.loli.net/avatar/63900087ce5ba22f6377309fa50962d0
+  descr: 又一个博客
+
+- name: 冰微未来
+  link: https://www.vwmwv.cn/
+  feed: https://www.vwmwv.cn/feed
+  avatar: https://gravatar.loli.net/avatar/4cc893d113dd74ceca73f9863f2c5446
+  descr: 又一个博客
+
+- name: 大大的小熊
+  link: https://imwgh.com/
+  feed: https://imwgh.com/feed
+  avatar: https://gravatar.loli.net/avatar/f27fba4d7d92056cf3db0e577761ad01
+  descr: 又一个博客
+
+- name: 大大的小蜗牛
+  link: https://eallion.com/
+  feed: https://eallion.com/atom.xml
+  avatar: https://gravatar.loli.net/avatar/c686821c00797f9390732f8fe2c82b5f
+  descr: 又一个博客
+
+- name: 归臧
+  link: https://nuoea.com/
+  feed: https://nuoea.com/atom.xml
+  avatar: https://gravatar.loli.net/avatar/020d365ea2596ef6d516143bb0552704
+  descr: 又一个博客
+
+- name: 山卜方
+  link: https://novcu.com/
+  feed: https://novcu.com/feed
+  avatar: https://gravatar.loli.net/avatar/65106752d27bc6065e29a8a8d39bdbc2
+  descr: 又一个博客
+
+- name: 胡家小子
+  link: https://www.boyhu.cn/
+  feed: https://www.boyhu.cn/feed
+  avatar: https://gravatar.loli.net/avatar/55be217893c75baf8571837197de4a3e
+  descr: 又一个博客
+
+- name: xwlearn
+  link: https://xwlearn.com/
+  feed: https://xwlearn.com/index.xml
+  avatar: https://gravatar.loli.net/avatar/4463036638cb7140058a588641659fdc
+  descr: 又一个博客
+
+- name: kn007
+  link: https://kn007.net/
+  feed: https://kn007.net/feed
+  avatar: https://gravatar.loli.net/avatar/e323e158cc1b16465d87f035dae01544
+  descr: 又一个博客
+
+- name: 佐仔志
+  link: https://www.jinbo123.com/
+  feed: https://www.jinbo123.com/feed
+  avatar: https://gravatar.loli.net/avatar/eece4ac89edd4a2d86e69314a3ba7fd9
+  descr: 又一个博客
+
+- name: 牧羊人
+  link: https://www.shephe.com/
+  feed: https://www.shephe.com/feed
+  avatar: https://gravatar.loli.net/avatar/cbbe656c7bb46772f589c9b18a7c747e
+  descr: 又一个博客
+
+- name: JiaYin‘s Life
+  link: https://imjiayin.com/
+  feed: https://imjiayin.com/feed
+  avatar: https://gravatar.loli.net/avatar/eacbb84f0052902f36c59873b4ff7975
+  descr: 又一个博客
+
+- name: IAN博客
+  link: https://www.ianisme.com/
+  feed: https://www.ianisme.com/feed
+  avatar: https://gravatar.loli.net/avatar/d8ed89f2081f6bda63f9f5fef7d8822f
+  descr: 又一个博客
+
+- name: 郑永博客
+  link: http://xptt.com/
+  feed: http://xptt.com/feed
+  avatar: https://gravatar.loli.net/avatar/f713666d2485ae4ec6cab07f5dea18ea
+  descr: 又一个博客
+
+- name: 敖天羽
+  link: https://xsky.me/
+  feed: https://xsky.me/atom.xml
+  avatar: https://img.codesky.me/uPic/fr2_20191011_182607-a9FlKd.png
+  descr: 又一个博客
+
+- name: 可能吧
+  link: https://kenengba.com/
+  feed: https://kenengba.com/feed
+  avatar: https://gravatar.loli.net/avatar/ef0a84e8fb973390d0a7eb34f3d35ef3
+  descr: 又一个博客
+
+- name: Catbaron‘s Palace
+  link: https://catbaron.com/blog/
+  feed: https://catbaron.com/blog/feed
+  avatar: https://gravatar.loli.net/avatar/57d8260dfb55501c37dde588e7c3852c
+  descr: 又一个博客
+
+- name: V2方圆
+  link: https://www.v2fy.com/
+  feed: https://www.v2fy.com/feed
+  avatar: https://bbs.v2fy.com/user_avatar/bbs.v2fy.com/zhaoolee/120/3_2.png
+  descr: 又一个博客
+
+- name: 失眠海峡
+  link: https://blog.imalan.cn/
+  feed: https://blog.imalan.cn/feed/index.xml
+  avatar: https://blog.imalan.cn/logo.jpg
+  descr: 又一个博客
+
+- name: 友人C
+  link: https://www.ihewro.com/
+  feed: https://www.ihewro.com/feed
+  avatar: https://gravatar.loli.net/avatar/9e543b9d68c191fdc484c3bbe9f953a4
+  descr: 又一个博客
+
+- name: Hran
+  link: https://get233.com/
+  feed: https://get233.com/feed
+  avatar: https://gravatar.loli.net/avatar/f4648a5fb8b1a100ee7f5e85fc73d65a
+  descr: 又一个博客
+
+- name: Jdeal
+  link: https://www.jdeal.cn/
+  feed: https://www.jdeal.cn/feed
+  avatar: https://qn.jdeal.cn/favicon.ico","feed","rss
+  descr: 又一个博客
+
+- name: 蓝冰
+  link: https://blce.me/
+  feed: https://blce.me/feed
+  avatar: https://gravatar.loli.net/avatar/d4c7f2a2b5700dd56bdb611bc6ea258e
+  descr: 又一个博客
+
+- name: DIYgod
+  link: https://diygod.me/
+  feed: https://diygod.me/atom.xml
+  avatar: https://cdn.jsdelivr.net/gh/DIYgod/hexo-theme-sagiri/source/images/DIYgod-avatar2.webp
+  descr: 又一个博客
+
+- name: 青山绿水
+  link: https://www.huhexian.com/
+  feed: https://www.huhexian.com/feed
+  avatar: https://gravatar.loli.net/avatar/dc75b1021b41486d062ff0285fb94749
+  descr: 又一个博客
+
+- name: Xinsenz茶話
+  link: https://xinsenz.com/
+  feed: https://xinsenz.com/feed
+  avatar: https://xinsenz.com/wp-content/themes/Berry-wordpress/build/images/favicon.png
+  descr: 又一个博客
+
+- name: 生活的左上角
+  link: https://bwskyer.com/
+  feed: https://bwskyer.com/feed
+  avatar: https://gravatar.loli.net/avatar/abe12c11884304431dbe6288fd4f9d50
+  descr: 又一个博客
+
+- name: 三十三言
+  link: https://o0o0o0.cn/
+  feed: https://o0o0o0.cn/feed
+  avatar: https://gravatar.loli.net/avatar/762085ba7c69ce3d315d281913fd6124
+  descr: 又一个博客
+
+- name: 小王子
+  link: https://www.wanghao.me/
+  feed: https://www.wanghao.me/feed
+  avatar: https://gravatar.loli.net/avatar/5cc114213dee7cdf2d3364a15b090586
+  descr: 又一个博客
+
+- name: 平顶山
+  link: https://0375.me/
+  feed: https://0375.me/feed
+  avatar: https://gravatar.loli.net/avatar/b41bd82dd1936605a992d4ded120c7d7
+  descr: 又一个博客
+
+- name: 不一止集
+  link: https://buyivi.xyz/
+  feed: https://buyivi.xyz/feed
+  avatar: https://gravatar.loli.net/avatar/57d8260dfb55501c37dde588e7c3852c
+  descr: 又一个博客
+
+- name: 忆往事
+  link: https://yiws.net/
+  feed: https://yiws.net/feed
+  avatar: https://gravatar.loli.net/avatar/5227ee83f9f62c28edeed5554923d09c
+  descr: 又一个博客
+
+- name: SKYue
+  link: https://www.skyue.com/
+  feed: https://www.skyue.com/feed
+  avatar: https://gravatar.loli.net/avatar/c3fb4bb4d5101284ddd672fb722cdd7d
+  descr: 又一个博客
+
+- name: 权子
+  link: http://www.quanzi.de/
+  feed: http://www.quanzi.de/feed
+  avatar: https://gravatar.loli.net/avatar/0e99ef2ad07f02eee35584d7a9263696
+  descr: 又一个博客
+
+- name: 羽中漫步
+  link: https://www.yzmb.me/
+  feed: https://www.yzmb.me/feed
+  avatar: https://gravatar.loli.net/avatar/ffa9ac42c56fd4776ccef37c57664965
+  descr: 又一个博客
+
+- name: 浮游笔记
+  link: https://fffou.com/
+  feed: https://fffou.com/index.xml
+  avatar: https://fffou.com/favicon.ico
+  descr: 又一个博客
+
+- name: 弋牧
+  link: http://emuia.com/
+  feed: http://emuia.com/feed
+  avatar: https://gravatar.loli.net/avatar/57d8260dfb55501c37dde588e7c3852c
+  descr: 又一个博客
+
+- name: Litchi
+  link: https://www.863134.com/
+  feed: https://www.863134.com/feed
+  avatar: https://gravatar.loli.net/avatar/a1eb974f6d93c9a9af88bf48a55176ba
+  descr: 又一个博客
+
+- name: 蓝卡
+  link: https://www.lanka.cn/
+  feed: https://www.lanka.cn/feed
+  avatar: https://gravatar.loli.net/avatar/c49121896a04c519134e1ae721ebcab7
+  descr: 又一个博客
+
+- name: 非学·派
+  link: https://fxpai.com/
+  feed: https://fxpai.com/feed
+  avatar: https://gravatar.loli.net/avatar/9a377c01c6ce230242afa0f902a5682d
+  descr: 又一个博客
+
+- name: 吕小荣
+  link: https://mednoter.com/
+  feed: https://mednoter.com/feed.xml
+  avatar: https://mednoter.com/images/scribble.png
+  descr: 又一个博客
+
+- name: Leyar
+  link: https://ileyar.com/
+  feed: https://ileyar.com/index.xml
+  avatar: https://ileyar.com/apple-touch-icon.png
+  descr: 又一个博客
+
 - name: 小冰博客
   link: https://zfe.space/
   feed: https://zfe.space/atom.xml
