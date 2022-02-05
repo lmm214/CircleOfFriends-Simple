@@ -1,3 +1,9 @@
+- name: 怡红公子
+  link: https://imnerd.org/
+  feed: https://imnerd.org/index.xml
+  avatar: https://gravatar.loli.net/avatar/32f210c5e3cd76fdf677981974274dfd
+  descr: 又一个博客
+  
 - name: 小蝴蝶
   link: http://xiaohudie.net/
   feed: http://xiaohudie.net/feed
